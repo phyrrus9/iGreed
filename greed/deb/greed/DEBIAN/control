@@ -1,0 +1,8 @@
+Package: com.phyrrus9.greed
+Name: iGreed
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: A remake of GNU Greed for linux, with a few surprises sprinkled in. Very addictive once you get playing
+Maintainer: Ethan Laur <phyrrus9@gmail.com>
+Author: Ethan Laur (phyrrus9) <phyrrus9@gmail.com>
+Section: Games
